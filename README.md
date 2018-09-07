@@ -1,5 +1,7 @@
 # all_js_page
 
+https://www.theodinproject.com/courses/javascript/lessons/restaurant-page
+
 1. Start the project the same way you began the webpack tutorial project. 
   a. run npm init in your project directory to generate a package.json file    
   b. run npm install --save-dev webpack to install webpack to the node_modules directory of your project.       - Quick tip: the node_modules folder can get really big. It is customary to add a .gitignore file to your project so that you don’t have to sync the contents of node_modules to github. The dependencies that are stored there can be installed from your package.json by running npm install, so you don’t need to sync them.    
